@@ -1,3 +1,3 @@
 #!/bin/bash
 set -euxo pipefail
-exit 0
+exit 1
